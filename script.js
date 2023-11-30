@@ -2958,3 +2958,10 @@ const spec4 = {
   }
 };
 vegaEmbed("#vis4", spec4);
+
+
+const spec5 = {
+
+}
+
+vegaEmbed("#vis5", spec5);
