@@ -67,5 +67,6 @@ Nandana: I wanted to see how the number of crimes that were being reported could
 
 
 The last visualization is an interactive map that will allow us to see the the total crime count of any year that we want by clicking on the different community areas that make up the city of Chicago. We wanted this information to add a layer of depth to our existing data. Our data already analyzes crime occurence over time but we never had the ability to locate how these numbers are allocated by area. Now, we can pinpoint the crime occurence count by area by a simple click of a button.
+<img width="1180" alt="Screen Shot 2023-11-29 at 7 55 03 PM" src="https://github.com/uic-cs424/assignment-4-sherlock-s-inner-circle/assets/72587000/bf2f1c06-57da-42a3-93cb-4963667a22aa">
 
 
